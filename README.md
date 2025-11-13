@@ -7,8 +7,16 @@
 - **React Native & Cross-Platform Apps ⚛️**  <br>
 - **Systems Architecture & Concurrent Programming 🖥️**  <br>
 - **Product Design & User Experience 🎨**<br><br>
-### 🔧 What I'm Building  <br>- **iDonate** – A peer-to-peer blood donation app 🩸  <br>- Full-stack projects with **MERN & LAMP**  <br>- Cross-platform apps with **React Native**  <br>- Backend APIs and cloud integrations ☁️  <br><br>
-### 🎯 Goals & Learning Journey  <br>- Deepen my knowledge in **AI development**  <br>- Master **monorepo management** for scalable projects  <br>- Explore advanced **systems programming & parallel computing**  <br>- Contribute to **open-source projects**<br><br>---<br><br>
+### 🔧 What I'm Building  <br>
+- **iDonate** – A peer-to-peer blood donation app 🩸  <br>
+- Full-stack projects with **MERN & LAMP**  <br>
+- Cross-platform apps with **React Native**  <br>
+- Backend APIs and cloud integrations ☁️  <br><br>
+### 🎯 Goals & Learning Journey  <br>
+- Deepen my knowledge in **AI development**  <br>
+- Master **monorepo management** for scalable projects  <br>
+- Explore advanced **systems programming & parallel computing**  <br>
+- Contribute to **open-source projects**<br><br>---<br><br>
 ### Let's Connect!<br>Feel free to reach out for **collaborations**, **learning exchanges**, or **tech discussions**.
 
 
