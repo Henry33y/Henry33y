@@ -1,6 +1,12 @@
 # 💫 About Me:
 ## About Me<br><br>👋 Hi there! I'm a **Software Engineering student** passionate about **building impactful tech solutions**.  <br>I love exploring the intersection of **software, systems, and creativity**—from scalable backend systems to sleek mobile apps.<br><br>
-### 🚀 Current Focus  <br>- **AI & Machine Learning 🤖**  <br>- **Mobile App Development 📱**  <br>- **Full-Stack Development (MERN & LAMP) 🌐**  <br>- **React Native & Cross-Platform Apps ⚛️**  <br>- **Systems Architecture & Concurrent Programming 🖥️**  <br>- **Product Design & User Experience 🎨**<br><br>
+### 🚀 Current Focus  <br>
+- **AI & Machine Learning 🤖**  <br>
+- **Mobile App Development 📱**  <br>
+- **Full-Stack Development (MERN & LAMP) 🌐**  <br>
+- **React Native & Cross-Platform Apps ⚛️**  <br>
+- **Systems Architecture & Concurrent Programming 🖥️**  <br>
+- **Product Design & User Experience 🎨**<br><br>
 ### 🔧 What I'm Building  <br>- **iDonate** – A peer-to-peer blood donation app 🩸  <br>- Full-stack projects with **MERN & LAMP**  <br>- Cross-platform apps with **React Native**  <br>- Backend APIs and cloud integrations ☁️  <br><br>
 ### 🎯 Goals & Learning Journey  <br>- Deepen my knowledge in **AI development**  <br>- Master **monorepo management** for scalable projects  <br>- Explore advanced **systems programming & parallel computing**  <br>- Contribute to **open-source projects**<br><br>---<br><br>
 ### Let's Connect!<br>Feel free to reach out for **collaborations**, **learning exchanges**, or **tech discussions**.
